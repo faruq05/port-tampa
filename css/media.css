@@ -38,4 +38,16 @@
     .ft_post h4 {
         padding: 30px 30px;
     }
+
+    .blog_title h2{
+        font-size: 30px;
+    }
+
+    .footer .cp60{
+        padding: 60px 15px!important;
+    }
+
+    .footer_content{
+        margin-bottom: 30px;
+    }
 }
